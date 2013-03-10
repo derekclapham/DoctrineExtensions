@@ -6,6 +6,3 @@ tags
 .vimrc.local
 /composer.lock
 /composer.phar
-.buildpath
-.project
-.settings/org.eclipse.php.core.prefs
